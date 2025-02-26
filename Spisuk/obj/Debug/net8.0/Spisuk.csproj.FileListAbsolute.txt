@@ -1,0 +1,14 @@
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\bin\Debug\net8.0\Spisuk.exe
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\bin\Debug\net8.0\Spisuk.deps.json
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\bin\Debug\net8.0\Spisuk.runtimeconfig.json
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\bin\Debug\net8.0\Spisuk.dll
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\bin\Debug\net8.0\Spisuk.pdb
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\Spisuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\Spisuk.AssemblyInfoInputs.cache
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\Spisuk.AssemblyInfo.cs
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\Spisuk.csproj.CoreCompileInputs.cache
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\Spisuk.dll
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\refint\Spisuk.dll
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\Spisuk.pdb
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\Spisuk.genruntimeconfig.cache
+C:\Users\vesel\Desktop\C#\Spisuk\Spisuk\obj\Debug\net8.0\ref\Spisuk.dll

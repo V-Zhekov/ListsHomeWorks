@@ -1,0 +1,14 @@
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\bin\Debug\net8.0\SpisukNAcetniCisla.exe
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\bin\Debug\net8.0\SpisukNAcetniCisla.deps.json
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\bin\Debug\net8.0\SpisukNAcetniCisla.runtimeconfig.json
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\bin\Debug\net8.0\SpisukNAcetniCisla.dll
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\bin\Debug\net8.0\SpisukNAcetniCisla.pdb
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\SpisukNAcetniCisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\SpisukNAcetniCisla.AssemblyInfoInputs.cache
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\SpisukNAcetniCisla.AssemblyInfo.cs
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\SpisukNAcetniCisla.csproj.CoreCompileInputs.cache
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\SpisukNAcetniCisla.dll
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\refint\SpisukNAcetniCisla.dll
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\SpisukNAcetniCisla.pdb
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\SpisukNAcetniCisla.genruntimeconfig.cache
+C:\Users\vesel\Desktop\C#\Spisuk\SpisukNAcetniCisla\obj\Debug\net8.0\ref\SpisukNAcetniCisla.dll

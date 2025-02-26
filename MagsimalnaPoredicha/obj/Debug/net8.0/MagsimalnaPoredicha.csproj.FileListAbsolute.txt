@@ -1,0 +1,14 @@
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\bin\Debug\net8.0\MagsimalnaPoredicha.exe
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\bin\Debug\net8.0\MagsimalnaPoredicha.deps.json
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\bin\Debug\net8.0\MagsimalnaPoredicha.runtimeconfig.json
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\bin\Debug\net8.0\MagsimalnaPoredicha.dll
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\bin\Debug\net8.0\MagsimalnaPoredicha.pdb
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\MagsimalnaPoredicha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\MagsimalnaPoredicha.AssemblyInfoInputs.cache
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\MagsimalnaPoredicha.AssemblyInfo.cs
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\MagsimalnaPoredicha.csproj.CoreCompileInputs.cache
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\MagsimalnaPoredicha.dll
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\refint\MagsimalnaPoredicha.dll
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\MagsimalnaPoredicha.pdb
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\MagsimalnaPoredicha.genruntimeconfig.cache
+C:\Users\vesel\Desktop\C#\Spisuk\MagsimalnaPoredicha\obj\Debug\net8.0\ref\MagsimalnaPoredicha.dll

@@ -1,0 +1,14 @@
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\bin\Debug\net8.0\SumNAoburnatiChisla.exe
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\bin\Debug\net8.0\SumNAoburnatiChisla.deps.json
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\bin\Debug\net8.0\SumNAoburnatiChisla.runtimeconfig.json
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\bin\Debug\net8.0\SumNAoburnatiChisla.dll
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\bin\Debug\net8.0\SumNAoburnatiChisla.pdb
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\SumNAoburnatiChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\SumNAoburnatiChisla.AssemblyInfoInputs.cache
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\SumNAoburnatiChisla.AssemblyInfo.cs
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\SumNAoburnatiChisla.csproj.CoreCompileInputs.cache
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\SumNAoburnatiChisla.dll
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\refint\SumNAoburnatiChisla.dll
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\SumNAoburnatiChisla.pdb
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\SumNAoburnatiChisla.genruntimeconfig.cache
+C:\Users\vesel\Desktop\C#\Spisuk\SumNAoburnatiChisla\obj\Debug\net8.0\ref\SumNAoburnatiChisla.dll
