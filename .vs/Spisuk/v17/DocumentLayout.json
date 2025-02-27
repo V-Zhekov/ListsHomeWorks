@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\",
+  "WorkspaceRootPath": "C:\\9a\\ListsHomeWorks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E965940-20C8-4A7D-B269-54D077A3A1D4}|SumNAoburnatiChisla\\SumNAoburnatiChisla.csproj|c:\\users\\vesel\\desktop\\c#\\spisuk\\sumnaoburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E965940-20C8-4A7D-B269-54D077A3A1D4}|SumNAoburnatiChisla\\SumNAoburnatiChisla.csproj|c:\\9a\\listshomeworks\\sumnaoburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E965940-20C8-4A7D-B269-54D077A3A1D4}|SumNAoburnatiChisla\\SumNAoburnatiChisla.csproj|solutionrelative:sumnaoburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88B6A4F1-2546-46EC-BF3B-0336621CE150}|SpisukNAkrainosti\\SpisukNAkrainosti.csproj|c:\\users\\vesel\\desktop\\c#\\spisuk\\spisuknakrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88B6A4F1-2546-46EC-BF3B-0336621CE150}|SpisukNAkrainosti\\SpisukNAkrainosti.csproj|solutionrelative:spisuknakrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B69064D-D3C9-413C-BE80-E753E7D75F7F}|Srednite1_2_3Elementi\\Srednite1_2_3Elementi.csproj|c:\\9a\\listshomeworks\\srednite1_2_3elementi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B69064D-D3C9-413C-BE80-E753E7D75F7F}|Srednite1_2_3Elementi\\Srednite1_2_3Elementi.csproj|solutionrelative:srednite1_2_3elementi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB2D886-D133-4208-9809-72B0537D6850}|SpisukNAcetniCisla\\SpisukNAcetniCisla.csproj|c:\\users\\vesel\\desktop\\c#\\spisuk\\spisuknacetnicisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{510A3098-0BBF-4960-BB32-C236DF19DBA7}|Spisuk\\Spisuk.csproj|c:\\9a\\listshomeworks\\spisuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510A3098-0BBF-4960-BB32-C236DF19DBA7}|Spisuk\\Spisuk.csproj|solutionrelative:spisuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2D886-D133-4208-9809-72B0537D6850}|SpisukNAcetniCisla\\SpisukNAcetniCisla.csproj|c:\\9a\\listshomeworks\\spisuknacetnicisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB2D886-D133-4208-9809-72B0537D6850}|SpisukNAcetniCisla\\SpisukNAcetniCisla.csproj|solutionrelative:spisuknacetnicisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510A3098-0BBF-4960-BB32-C236DF19DBA7}|Spisuk\\Spisuk.csproj|c:\\users\\vesel\\desktop\\c#\\spisuk\\spisuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510A3098-0BBF-4960-BB32-C236DF19DBA7}|Spisuk\\Spisuk.csproj|solutionrelative:spisuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B6A4F1-2546-46EC-BF3B-0336621CE150}|SpisukNAkrainosti\\SpisukNAkrainosti.csproj|c:\\9a\\listshomeworks\\spisuknakrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B6A4F1-2546-46EC-BF3B-0336621CE150}|SpisukNAkrainosti\\SpisukNAkrainosti.csproj|solutionrelative:spisuknakrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\9a\\ListsHomeWorks\\Srednite1_2_3Elementi\\Program.cs",
+              "RelativeDocumentMoniker": "Srednite1_2_3Elementi\\Program.cs",
+              "ToolTip": "C:\\9a\\ListsHomeWorks\\Srednite1_2_3Elementi\\Program.cs",
+              "RelativeToolTip": "Srednite1_2_3Elementi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:35:14.905Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\SumNAoburnatiChisla\\Program.cs",
+              "DocumentMoniker": "C:\\9a\\ListsHomeWorks\\SumNAoburnatiChisla\\Program.cs",
               "RelativeDocumentMoniker": "SumNAoburnatiChisla\\Program.cs",
-              "ToolTip": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\SumNAoburnatiChisla\\Program.cs",
+              "ToolTip": "C:\\9a\\ListsHomeWorks\\SumNAoburnatiChisla\\Program.cs",
               "RelativeToolTip": "SumNAoburnatiChisla\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T19:24:28.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\SpisukNAkrainosti\\Program.cs",
+              "DocumentMoniker": "C:\\9a\\ListsHomeWorks\\SpisukNAkrainosti\\Program.cs",
               "RelativeDocumentMoniker": "SpisukNAkrainosti\\Program.cs",
-              "ToolTip": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\SpisukNAkrainosti\\Program.cs",
+              "ToolTip": "C:\\9a\\ListsHomeWorks\\SpisukNAkrainosti\\Program.cs",
               "RelativeToolTip": "SpisukNAkrainosti\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T19:04:55.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\SpisukNAcetniCisla\\Program.cs",
+              "DocumentMoniker": "C:\\9a\\ListsHomeWorks\\SpisukNAcetniCisla\\Program.cs",
               "RelativeDocumentMoniker": "SpisukNAcetniCisla\\Program.cs",
-              "ToolTip": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\SpisukNAcetniCisla\\Program.cs",
+              "ToolTip": "C:\\9a\\ListsHomeWorks\\SpisukNAcetniCisla\\Program.cs",
               "RelativeToolTip": "SpisukNAcetniCisla\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T19:01:41.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\Spisuk\\Program.cs",
+              "DocumentMoniker": "C:\\9a\\ListsHomeWorks\\Spisuk\\Program.cs",
               "RelativeDocumentMoniker": "Spisuk\\Program.cs",
-              "ToolTip": "C:\\Users\\vesel\\Desktop\\C#\\Spisuk\\Spisuk\\Program.cs",
+              "ToolTip": "C:\\9a\\ListsHomeWorks\\Spisuk\\Program.cs",
               "RelativeToolTip": "Spisuk\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

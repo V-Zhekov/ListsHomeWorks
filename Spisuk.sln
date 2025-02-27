@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spisuk", "Spisuk\Spisuk.csproj", "{510A3098-0BBF-4960-BB32-C236DF19DBA7}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpisukNAkrainosti", "SpisukNAkrainosti\SpisukNAkrainosti.csproj", "{88B6A4F1-2546-46EC-BF3B-0336621CE150}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNAoburnatiChisla", "SumNAoburnatiChisla\SumNAoburnatiChisla.csproj", "{3E965940-20C8-4A7D-B269-54D077A3A1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srednite1_2_3Elementi", "Srednite1_2_3Elementi\Srednite1_2_3Elementi.csproj", "{1B69064D-D3C9-413C-BE80-E753E7D75F7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +35,15 @@ Global
 		{3E965940-20C8-4A7D-B269-54D077A3A1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E965940-20C8-4A7D-B269-54D077A3A1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E965940-20C8-4A7D-B269-54D077A3A1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B69064D-D3C9-413C-BE80-E753E7D75F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B69064D-D3C9-413C-BE80-E753E7D75F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B69064D-D3C9-413C-BE80-E753E7D75F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B69064D-D3C9-413C-BE80-E753E7D75F7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9994135-BF95-4D7F-B978-C26773B9805C}
 	EndGlobalSection
 EndGlobal

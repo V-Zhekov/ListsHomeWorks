@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumNAoburnatiChisla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1e20cf09d28d0a42e28f78357fd164447affc3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumNAoburnatiChisla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumNAoburnatiChisla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

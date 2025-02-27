@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            int[] number = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int[] number = Console.ReadLine()
+                .Split(' ')
+                .Select(int.Parse)
+                .ToArray();
 
             int min =number.Min();
             int max =number.Max();

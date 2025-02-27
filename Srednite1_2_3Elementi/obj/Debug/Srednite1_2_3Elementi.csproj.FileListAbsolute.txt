@@ -1,0 +1,7 @@
+C:\9a\ListsHomeWorks\Srednite1_2_3Elementi\bin\Debug\Srednite1_2_3Elementi.exe.config
+C:\9a\ListsHomeWorks\Srednite1_2_3Elementi\bin\Debug\Srednite1_2_3Elementi.exe
+C:\9a\ListsHomeWorks\Srednite1_2_3Elementi\bin\Debug\Srednite1_2_3Elementi.pdb
+C:\9a\ListsHomeWorks\Srednite1_2_3Elementi\obj\Debug\Srednite1_2_3Elementi.csproj.AssemblyReference.cache
+C:\9a\ListsHomeWorks\Srednite1_2_3Elementi\obj\Debug\Srednite1_2_3Elementi.csproj.CoreCompileInputs.cache
+C:\9a\ListsHomeWorks\Srednite1_2_3Elementi\obj\Debug\Srednite1_2_3Elementi.exe
+C:\9a\ListsHomeWorks\Srednite1_2_3Elementi\obj\Debug\Srednite1_2_3Elementi.pdb
